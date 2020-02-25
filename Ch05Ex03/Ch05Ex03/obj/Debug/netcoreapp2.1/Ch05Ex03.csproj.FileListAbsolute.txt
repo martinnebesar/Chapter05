@@ -1,0 +1,11 @@
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.csprojAssemblyReference.cache
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.csproj.CoreCompileInputs.cache
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.AssemblyInfoInputs.cache
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.AssemblyInfo.cs
+C:\Martin\Ch05Ex03\Ch05Ex03\bin\Debug\netcoreapp2.1\Ch05Ex03.deps.json
+C:\Martin\Ch05Ex03\Ch05Ex03\bin\Debug\netcoreapp2.1\Ch05Ex03.runtimeconfig.json
+C:\Martin\Ch05Ex03\Ch05Ex03\bin\Debug\netcoreapp2.1\Ch05Ex03.runtimeconfig.dev.json
+C:\Martin\Ch05Ex03\Ch05Ex03\bin\Debug\netcoreapp2.1\Ch05Ex03.dll
+C:\Martin\Ch05Ex03\Ch05Ex03\bin\Debug\netcoreapp2.1\Ch05Ex03.pdb
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.dll
+C:\Martin\Ch05Ex03\Ch05Ex03\obj\Debug\netcoreapp2.1\Ch05Ex03.pdb
